@@ -6,7 +6,6 @@ Script en Python que crea y gestiona una base de datos PostgreSQL para una clini
 Implementa tablas relacionadas, consultas SQL, actualizaciones, eliminaciones y transacciones.
 
 ---
-
 ### Requisitos
 - Python 3.x
 - PostgreSQL instalado y corriendo en `localhost:5432`

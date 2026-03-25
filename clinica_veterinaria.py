@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 # ============================================================
-# EVALUACION FINAL - MODULO 3
+# EVALUACION FINAL - MODULO 5
 # Base de Datos para una Clinica Veterinaria
-# Alumno: [Tu nombre aqui]
+# Alumno: Francisco Javier Moraga
 # Fecha: 19/03/2026
 # ============================================================
 # Necesitas instalar psycopg2:  pip install psycopg2-binary
